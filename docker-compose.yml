@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+
+  satisfying-lake:
+    # build: .
+    image: phildwilson/spotted-codpiece
+    privileged: true
